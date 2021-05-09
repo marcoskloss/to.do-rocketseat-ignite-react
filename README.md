@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="mote.it" src=".github/todo.gif" width="100%">
+  <img alt="to.do preview" src=".github/todo.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
